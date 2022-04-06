@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing websites, coding python
 - 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : ellicode22@gmail.com
+- 📫 How to reach me : hello@ellicode.com
 
 <!---
 Ellicode/Ellicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
