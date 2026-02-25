@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Ellicode
-- 👀 I’m interested in Designing websites, coding python
-- 🌱 I’m currently learning Python, Javascript and php
-- 📫 How to reach me : support@ellicode.com
+im working on  the nijiOS project :3
+[Check it out if you want](https://github.com/TeamSHIRO/KURO)
 
-<!---
-Ellicode/Ellicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+im a furry mueheheheheh >:3
